@@ -1,0 +1,18 @@
+.settings__setting {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0px;
+  font-size: large;
+}
+
+.settings__setting i {
+  margin-right: 15px;
+}
+
+.settings-list {
+  border-bottom: var(--main-border);
+}
+
+.settings__setting-column:last-child {
+  opacity: 0.6;
+}
