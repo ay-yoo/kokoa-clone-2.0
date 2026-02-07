@@ -1,2 +1,3 @@
-#Kokoa clone 2.0
-this is kokoa colone
+카카오톡 메신저 UI를 HTML/CSS만으로 구현해보며, HTML/CSS의 기초 문법과 웹의 기본 구조를 이해하고자 진행한 프로젝트입니다. 
+
+전반적인 디자인은 Charli XCX의 6집 앨범인 brat의 디자인을 참고해 작업했습니다.
